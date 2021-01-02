@@ -44,6 +44,11 @@ responses:
   - text: "I can guide you how to login/register on the website and How to enroll all the courses step by step Step1: Click on Top right corner of the page for login/registration. step2: Fill Registration form and click on SIGN UP button. step3: You are Registered Successfully."
   utter_convince_login:
   - text: "If you want to access all courses and training then please login if you are already member, otherwise register yourself and get fruitful benefit from our digital platform."
+  utter_course_info: 
+  - text: "We have experienced teachers however, the courses are charged with no financial aid.The certificate will be emailed to you once you complete the course" 
+
+  utter_contribution: 
+  - text: "You can email us at info@learndigitaly.com or contact us through our website learn.prozameen.com" 
 
 actions:
 
