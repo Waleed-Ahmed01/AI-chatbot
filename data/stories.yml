@@ -43,3 +43,11 @@ stories:
     - action: utter_help_info
     - intent: convince_login
     - action: utter_convince_login
+ - story: course and contribution info 
+  steps: 
+  - intent: course info 
+  - action: utter_course_info 
+  - intent: contribution 
+  -action: utter_contribution
+
+
