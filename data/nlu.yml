@@ -120,3 +120,14 @@ nlu:
     - Can I access all training?
     - I am interested in stories
     - I need more information about the courses and training
+- intent: course_info 
+  examples: | 
+    -are the courses free or there is any financial aid available? 
+    -will there be a certificate of completion after we complete the course?
+    -who are the teachers teaching the course?
+- intent:contribution 
+  examples:| 
+    -is there any way of contributing my blog on your site 
+    -how to become a part of the prozameen educational  platform?
+  
+    
