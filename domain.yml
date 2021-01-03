@@ -12,6 +12,8 @@ intents:
   - employment
   - help_info
   - convince_login
+  - course_info
+  - contribution 
 
 responses:
   utter_greet:
